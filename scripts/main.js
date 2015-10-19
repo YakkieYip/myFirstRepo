@@ -1,0 +1,1 @@
+alert('No one likes Milhouse');
