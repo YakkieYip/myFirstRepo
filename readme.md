@@ -6,6 +6,6 @@ I'm learning github in the Fall 2015 bootcamp. Woo!
 
 Hi Ryan and Simon!
 
-![moto dog](http://giphy.com/gifs/z2WkJmk82TsFW)
+![moto dog](http://i.giphy.com/z2WkJmk82TsFW.gif)
 
 Awwww!
